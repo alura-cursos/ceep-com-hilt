@@ -78,3 +78,14 @@ class CeepApp : Application() {
 ```
 
 Neste exemplo, salvam 2 notas e você pode modificar a quantidade conforme a sua preferência. A única orientação é que depois que executar o App uma vez, comente ou apague essa amostra de código para que você consiga testar as mudanças e não apareça várias notas!
+
+## Acesso ao projeto e código fonte
+
+Você pode acessar o projeto em seus seguintes estados:
+
+- inicial: sem a integração com o Hilt:
+    - [baixar](https://github.com/alura-cursos/ceep-com-hilt/archive/refs/heads/initial-project.zip)
+    - [código fonte](https://github.com/alura-cursos/ceep-com-hilt/tree/initial-project)
+- final: com a integração com o Hilt:
+    - [baixar](https://github.com/alura-cursos/ceep-com-hilt/archive/refs/heads/final.zip)
+    - [código fonte](https://github.com/alura-cursos/ceep-com-hilt/tree/final)
